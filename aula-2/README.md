@@ -1,4 +1,4 @@
-pwd
+pwd <br />
 mkdir novo-dir
 cd novo-dir
 touch arquivo
