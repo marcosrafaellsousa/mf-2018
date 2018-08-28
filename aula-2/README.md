@@ -1,5 +1,5 @@
-pwd <br />
-mkdir novo-dir<br />
+* pwd
+* mkdir novo-dir
 cd novo-dir<br />
 touch arquivo<br />
 rm arquivo<br />
